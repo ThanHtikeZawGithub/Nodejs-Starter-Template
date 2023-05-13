@@ -36,6 +36,4 @@ app.all('*', (req,res) => {
 
 app.use(errHandler);
 
-
-
 app.listen(PORT, console.log(`Server running on port ${PORT}`));
