@@ -8,7 +8,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [https://github.com/your-username/awesomeapp.git](https://github.com/ThanHtikeZawGithub/Nodejs-Starter-Template.git)
+git clone (https://github.com/ThanHtikeZawGithub/Nodejs-Starter-Template.git)
 Navigate to the project directory:
 
 bash
